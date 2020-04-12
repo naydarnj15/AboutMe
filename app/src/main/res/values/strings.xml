@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="button_text">Text</string>
+    <string name="button_image">Image</string>
+    <string name="button_web">Web</string>
+    <string name="button_toast">Toast</string>
+    <string name="button_dialog">Dialog</string>
+    <string name="text_message">Nadir Mohamed\\nI am graduating this quarter (spring 2020)\\nI don\'t have a job lined up\\nThis is my favorite class so far.</string>
+    <string name="dialog_fire_missiles" >Fire Missiles?</string>
+    <string name="fire" >Fire</string>
+    <string name="cancel" >Cancel</string>
+</resources>
